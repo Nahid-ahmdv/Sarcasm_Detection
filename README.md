@@ -18,7 +18,7 @@ The goal is to build a **strong, interpretable baseline** with clean ML engineer
 ## **Full write-up**
 
 - 📓 **Project notebook:** `sarcasm_detection_detailed.ipynb`  
-- 📝 **Medium article:** 
+- 📝 **Medium article:** https://medium.com/@nahid.nm57/sarcasm-detection-without-deep-learning-083e17b21cf4
  
 
 At the end of the Medium article, I link back to this repo for full reproducibility.
